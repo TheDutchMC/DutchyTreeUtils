@@ -3,4 +3,5 @@ main: @groupId@.@name@.@name@
 version: @version@
 author: @author@
 api-version: @apiVersion@
+description: Removes leaves faster and trees are always fully taken down when one log is destroyed
 
